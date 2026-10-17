@@ -1,0 +1,55 @@
+name: yatraguide
+description: India tourism & pilgrimage discovery
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+  hooks_riverpod: ^2.5.1
+  flutter_hooks: ^0.20.5
+  go_router: ^13.2.0
+  dio: ^5.4.3
+  retrofit: ^4.1.0
+  json_annotation: ^4.9.0
+  supabase_flutter: ^2.4.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  flutter_map_cache: ^1.2.0
+  flutter_map_marker_cluster: ^1.3.0
+  hive_flutter: ^1.1.0
+  flutter_animate: ^4.5.0
+  lottie: ^3.1.0
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  flutter_svg: ^2.0.10+1
+  gap: ^3.0.1
+  geolocator: ^11.1.0
+  permission_handler: ^11.3.1
+  google_generative_ai: ^0.4.3
+  dartz: ^0.10.1
+  freezed_annotation: ^2.4.1
+  connectivity_plus: ^6.0.3
+  url_launcher: ^6.3.0
+  share_plus: ^9.0.0
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.9
+  riverpod_generator: ^2.4.0
+  freezed: ^2.5.2
+  json_serializable: ^6.8.0
+  retrofit_generator: ^8.1.0
+  hive_generator: ^2.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.0
+  mocktail: ^1.0.4
+  sentry_flutter: ^8.2.0

@@ -1,0 +1,28 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+pubspec.lock.bak
+
+# Android / iOS generated
+**/android/.gradle/
+**/android/local.properties
+**/ios/Pods/
+**/ios/Flutter/Generated.xcconfig
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and env
+*.log
+.env*
+!.env.example
+node_modules/
